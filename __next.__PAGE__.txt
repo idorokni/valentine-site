@@ -3,5 +3,5 @@
 3:I[24003,["/valentine-site/_next/static/chunks/980750b42dbc363a.js"],"ValentineCard"]
 4:I[97367,["/valentine-site/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"IVJHpotPA-lgCseAGnYA0","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"relative min-h-screen flex items-center justify-center overflow-hidden bg-background px-4 py-12","children":[["$","$L2",null,{}],["$","div",null,{"className":"relative z-10 w-full max-w-lg","children":["$","$L3",null,{}]}]]}],[["$","script","script-0",{"src":"/valentine-site/_next/static/chunks/980750b42dbc363a.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"tyfQAoi9Cv3vydkuZlpke","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"relative min-h-screen flex items-center justify-center overflow-hidden bg-background px-4 py-12","children":[["$","$L2",null,{}],["$","div",null,{"className":"relative z-10 w-full max-w-lg","children":["$","$L3",null,{}]}]]}],[["$","script","script-0",{"src":"/valentine-site/_next/static/chunks/980750b42dbc363a.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null
