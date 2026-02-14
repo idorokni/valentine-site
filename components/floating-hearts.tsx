@@ -16,7 +16,7 @@ interface Heart {
 export function FloatingHearts() {
   const [hearts, setHearts] = useState<Heart[]>([])
 
-  const images = ["/img1.png", "/img2.png", "/img3.png", "/img4.png", "/img5.png"]
+  const images = ["img1.png", "img2.png", "img3.png", "img4.png", "img5.png"]
 
   useEffect(() => {
     const generated: Heart[] = Array.from({ length: 20 }, (_, i) => {
