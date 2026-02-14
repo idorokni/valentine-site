@@ -55,9 +55,6 @@ export function ValentineCard() {
           <h2 className="text-3xl md:text-5xl font-serif font-bold text-foreground text-center text-balance">
             {"אני אוהב אותך הכי בעולם את הבחורה הכי מדהימה שהכרתי ואני לא מאמין שאנחנו חוגגים ביחד את היום הזה"}
           </h2>
-          <p className="text-lg md:text-xl text-muted-foreground text-center">
-            {"את הדבר הכי טוב שקרה לי ואני לא יכול לחכות לבלות איתך את היום הזה"}
-          </p>
         </div>
       </>
     )
